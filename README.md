@@ -1,13 +1,13 @@
 # 🔥 Raport Zawodowy – Kevin 🔥
 
-**📧 Kontakt:** bibip0662@gmail.com  
-**🧑 Imię:** Kevin  
-**🎂 Wiek:** 17 lat  
+**📧 Kontakt:** pikola93846@gmail.com
+**🧑 Imię:** Anonymous
+**🎂 Wiek:** ???
 
 ---
 
 ## 🛡️ Kim jestem?  
-Jestem młodym pasjonatem cyberbezpieczeństwa, który od kilku tygodni intensywnie rozwija się w tym kierunku.  
+Jestem pasjonatem cyberbezpieczeństwa, który od kilku tygodni intensywnie rozwija się w tym kierunku.  
 Nie zależy mi na pieniądzach ani „praktykach na papierze”.  
 Moim celem jest **PRAKTYCZNY rozwój**, najlepiej pod okiem mentora 🧠💻
 
@@ -64,4 +64,4 @@ Mam nadzieję, że wkrótce wszystko wróci do normy 💥
 ---
 
 Dzięki za przeczytanie!  
-– Kevin
+– Anonymous 
